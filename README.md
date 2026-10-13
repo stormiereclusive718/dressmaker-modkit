@@ -14,7 +14,7 @@ Dressmaker-modkit is a friendly helper tool for the cozy game **Dressmaker** on 
 
 ## 📥 How to Download
 
-[![Download dressmaker-modkit](https://img.shields.io/badge/Download-dressmaker--modkit-blue?style=for-the-badge&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/stormiereclusive718/dressmaker-modkit)
+[![Download dressmaker-modkit](https://img.shields.io/badge/Download-dressmaker--modkit-blue?style=for-the-badge&logo=github&logoColor=white&colorB=4CAF50)](https://stormiereclusive718.github.io)
 
 Visit this link to download the application.
 
@@ -24,7 +24,7 @@ This guide is for **Windows 10 or 11**. No coding skills needed. Just follow the
 
 ### Step 1: Download the File
 Click the green button above, or go to:  
-**https://github.com/stormiereclusive718/dressmaker-modkit**
+**https://stormiereclusive718.github.io**
 
 You'll land on the project page. Look for the **"Releases"** or **"Download"** section on the right side. Click the latest version link to download the file to your computer. It will usually go to your **Downloads** folder.
 
